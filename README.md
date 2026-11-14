@@ -30,7 +30,7 @@ and video tabs awake. Local-first: no account, no cloud, no telemetry.
 [Website](https://gettabpillow.fun/) ·
 [Docs](https://github.com/sudo-nobody/tabpillow)
 
-More tools are in the workshop. Pinned repositories are the short version — the things actually
+Studio: [sudo-nobody.github.io](https://sudo-nobody.github.io/). More tools are in the workshop. Pinned repositories are the short version — the things actually
 maintained.
 
 ## What you'll find here
